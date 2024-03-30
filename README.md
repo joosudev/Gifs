@@ -1,6 +1,6 @@
 # BuscadorDeGifs
 
-**Descipcion:**: ¡Bienvenido al Buscador de GIFs! Este repositorio alberga una aplicación que te permite buscar y compartir GIFs animados para expresar tus emociones de manera divertida y creativa..
+**Descipcion:**: ¡Bienvenido al Buscador de GIFs! Este repositorio alberga una aplicación que te permite buscar y compartir GIFs animados para expresar tus emociones de manera divertida y creativa.
 
 ## Utilización
 
